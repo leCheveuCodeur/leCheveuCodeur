@@ -95,42 +95,34 @@ take on new challenges! While waiting for an opportunity to prove my skills...
 <h2 align="center">🧰 Languages and Tools 🛠️</h2>
 <div class="techno">
 	<img
-		class="m-1"
 		src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white"
 		alt="symfony"
 	/>
 	<img
-		class="m-1"
 		src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"
 		alt="php"
 	/>
 	<img
-		class="m-1"
 		src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"
 		alt="mysql"
 	/>
 	<img
-		class="m-1"
 		src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
 		alt="javascript"
 	/>
 	<img
-		class="m-1"
 		src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
 		alt="html5"
 	/>
 	<img
-		class="m-1"
 		src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
 		alt="css3"
 	/>
 	<img
-		class="m-1"
 		src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"
 		alt="git"
 	/>
 	<img
-		class="m-1"
 		src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
 		alt="github"
 	/>
