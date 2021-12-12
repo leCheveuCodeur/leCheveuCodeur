@@ -52,6 +52,16 @@ take on new challenges! While waiting for an opportunity to prove my skills...
 			/>
 		</a>
 	</div>
+	<div>
+		<a href="https://github.com/leCheveuCodeur/TodoList">
+			<img width=400" src="TodoList.gif" />
+		</a>
+		<a href="https://github.com/leCheveuCodeur/TodoList">
+			<img
+				src="https://github-readme-stats.vercel.app/api/pin/?username=leCheveuCodeur&repo=TodoList"
+			/>
+		</a>
+	</div>														     
 </div>
 
 <h2 align="center">🧰 Languages and Tools 🛠️</h2>
